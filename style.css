@@ -1,0 +1,33 @@
+body{
+  background:black;
+}
+
+#container{
+  border-radius:4px;
+  background:teal;
+  width:300px;
+  height:300px;
+  padding-top:50px;
+  padding-bottom:0;
+  padding-left:50px;
+  margin:auto;
+
+}
+#container>div{
+  background:white;
+  width:80px;
+  height:80px;
+  display:inline-block;
+  margin-bottom:4px;
+  text-align:center;
+  box-shadow: 0 2px 5px black;
+  border-radius:2px;
+
+}
+{
+
+}
+h1 {
+  text-align: center;
+  color: white;
+}
